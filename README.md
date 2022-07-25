@@ -1,2 +1,2 @@
 # HANDriver
-Framework/Lib in python for easy hand gesture recognition and tracking. 
+Research project to recreate driver wheel position from bus footage.
