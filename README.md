@@ -10,3 +10,8 @@ Bus footage received from cyride for the orange route at iowa state university.
      
 
 This repo represents the efforts to model autonomous bus systems already in ames using advanced interpolating ai models, localization models, and more. 
+
+
+## Results from Localizion Models 
+
+
