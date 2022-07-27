@@ -20,7 +20,7 @@ live pose estimation results
 
 
 
-TO DO LIST:
+#TO DO LIST:
 - [x] Create Repo and Read me 
 - [x] Create temporary requirements.txt file
 - [ ] Create Optimized requirements.txt file 
@@ -28,4 +28,4 @@ TO DO LIST:
 - [ ] use interpolate model to create more frames
 - [ ] use super res models to super resolutionize the frames
 - [ ] redo and analyze efficiency before and after interpolation and super resolution on the live pose estimation 
-- [ ] 
+
